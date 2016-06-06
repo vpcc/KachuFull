@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kachufull</string>
+    <string name="welcomeTitle">Welcome to Kachufull!</string>
+    <string name="instructions">View Rules</string>
+    <string name="playGame">Play</string>
+    <string name="exit">Exit</string>
+    <string name="rules">After the cards are dealt, the player who got the 1st card first will be the first to predict the hands that he will make after looking at the cards.  The trump is spades in the first game.  With five cards given to each player, there is a possibility of making a maximum of five hands.
+
+        \n\nAll the other players, at their turn (in counterclockwise direction) make their predictions on the number of hands they will make.  As an example, assume the 1st player made the prediction of two hands, Computer 1 of zero hands, Computer 2 of one hand and Computer 3 of three hands. The predictions cannot add up to the number of cards dealt. After the predictions are over, the game begins with player who was dealt the 1st card.
+
+        \n\nSuppose the first player plays the King of Hearts, and all the players have hearts with them so they have to play hearts. If not, a random suit or the trump suit can be played. Trump suit card wins over all the other suits, but within the trump suit, hierarchy of values apply. If not a trump suit, but a random suit is played and no one has the ace of hearts, so the King of hearts wins over other cards of hearts and he makes a hand.
+
+        \n\nEach turn, the trump suit changes and cycles through Spades, Diamond, Clubs, and Hearts.</string>
+</resources>
